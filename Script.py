@@ -8,7 +8,7 @@ class script(object):
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
 ╔═════❰ 𝕜𝕧𝕣 ❱══⪼𒆜
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Kvr_autofilterbot"> 𝕜𝕧𝕣 𝕬𝖚𝖙𝖔 𝖋𝖎𝖑𝖙𝖊𝖗 𝖇𝖔𝖙 </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Kvr_autofilterbot"> 𝕜𝕧𝕣 </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="http://t.me/Kvr_admin_bot"> 👮  мᎥʳⓢĤ𝔸ⓓ  ✌ </a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ MAINTENANCE - 𝓐𝓜𝓐𝓛
@@ -19,10 +19,10 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/Kvr_autofilterbot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/Kvr_admin_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝓣𝓔𝓐𝓜 𝓚𝓥𝓡 </a>"""
+<a href="http://t.me/Kvr_admin_bot"> 𝓣𝓔𝓐𝓜 𝓚𝓥𝓡 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
