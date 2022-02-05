@@ -1,15 +1,15 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='http://t.me/swift_autofilterbot </a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗,
-𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻 𝓜𝓲𝓻𝓼𝓱𝓪𝓭 𝑀𝒜𝐼𝒩𝒯𝐸𝒩𝒜𝒩𝒞𝐸 𝒜𝓂𝒶𝓁 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 ♥️
+𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='http://t.me/kvr_autofilterbot </a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗,
+𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 ♥️
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
-╔═════❰ Swift BOT ❱══⪼𒆜
+╔═════❰ Kvr BOT ❱══⪼𒆜
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Kvr_autofilterbot"> Swift </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Kvr_autofilterbot"> Kvr Robot </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="http://t.me/Kvr_admin_bot"> 👮  мᎥʳⓢĤ𝔸ⓓ  ✌ </a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ MAINTENANCE - 𝓐𝓜𝓐𝓛
@@ -23,7 +23,7 @@ class script(object):
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/Kvr_admin_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="http://t.me/Kvr_admin_bot"> Swift Bot </a>"""
+<a href="http://t.me/Kvr_admin_bot"> Kvr Bot </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
